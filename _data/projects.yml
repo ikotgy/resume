@@ -1,23 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project:kinchxa
-  role:Architect
-  duration:xx
-  url:"http://artstudio.ge/projects/public#mpf-popup@http://artstudio.ge/wp-content/uploads/2017/09/3-4.jpg|1432|59b50ff087e5a"
+# kinchxa
+- project: kinchxa
+  role: Architect
+  duration:
+  url: "http://artstudio.ge/projects/public#mpf-popup@http://artstudio.ge/wp-content/uploads/2017/09/3-4.jpg|1432|59b50ff087e5a"
   #description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project:hotel hermitage
-  role:Architect
-  duration:xx
-  url:"http://artstudio.ge/projects/public#mpf-popup@http://artstudio.ge/wp-content/uploads/2017/09/fb8d303e-fa33-418c-8a76-2dfc7638a72d.jpg|688|59b50ff087e5a"
+# hotel hermitage
+- project: hotel hermitage
+  role: Architect
+  duration:
+  url: "http://artstudio.ge/projects/public#mpf-popup@http://artstudio.ge/wp-content/uploads/2017/09/fb8d303e-fa33-418c-8a76-2dfc7638a72d.jpg|688|59b50ff087e5a"
   #description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
-# Springfield Community Outreach Group
-- project:Private Villa
-  role:Architect
-  duration:xx
-  url:"https://picoolio.net/images/2018/05/23/Final-Bedroom-Design-Render5bf2033bb1db18277.jpg""https://picoolio.net/images/2018/05/23/stairslast2aef36b7e3f217221.jpg"
+# Villa
+- project: Villa
+  role: Architect
+  duration:
+  url: "https://picoolio.net/images/2018/05/23/stairslast2aef36b7e3f217221.jpg"
   #description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
