@@ -17,7 +17,14 @@
 
 # Villa
 - project: Villa
-  role: Architect
+  role: Interior Architect
   duration:
   url: "https://picoolio.net/images/2018/05/23/stairslast2aef36b7e3f217221.jpg"
+  #description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Private apartment
+- project: Private apartment
+  role: graphical montage
+  duration:
+  url: "https://picoolio.net/image/I7l9"
   #description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
